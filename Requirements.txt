@@ -1,0 +1,24 @@
+# --- CORE FRAMEWORK ---
+streamlit>=1.30.0
+python-dotenv>=1.0.0
+
+# --- AI & MULTIMODAL (GEMINI 3 FLASH) ---
+google-generativeai>=0.4.0
+
+# --- SEARCH & DATA SCRAPING ---
+duckduckgo-search>=4.4.0
+requests>=2.31.0
+
+# --- DOCUMENT & IMAGE PROCESSING ---
+PyPDF2>=3.0.0
+pdfplumber>=0.10.0
+Pillow>=10.0.0
+
+# --- DATA ANALYSIS & VISUALIZATION ---
+pandas>=2.1.0
+numpy>=1.26.0
+plotly>=5.18.0
+
+# --- UTILITIES & TRANSLATION ---
+deep-translator>=1.11.0
+streamlit-speech-to-text>=0.1.0
